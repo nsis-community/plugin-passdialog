@@ -1,5 +1,5 @@
 #include <windows.h>
-#include "..\ExDll\pluginapi.h" // requires nsis 2.42 or higher
+#include "pluginapi.h" // requires nsis 2.42 or higher
 #include "resource.h"
 
 // Global variables
